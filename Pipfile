@@ -9,6 +9,7 @@ verify_ssl = true
 pandas = "*"
 jupyterlab = "*"
 matplotlib = "*"
+youtube_dl = "*"
 
 [requires]
 python_version = "3.7"
